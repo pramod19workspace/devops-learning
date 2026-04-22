@@ -1,0 +1,9 @@
+git diff -> see exact changes before committing
+
+git log --oneline -> compact history view
+
+git checkout main -> switch to main branch
+
+git checkout -b "new-branch" -> create + switch to new branch
+
+git pull -> get latest changes from github
