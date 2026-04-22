@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "===== Date ====="
+echo "$(date)"
+echo ""
+echo "===== Disk usage ====="
+echo "$(df -h /)"
+echo ""
+echo "===== Memory usage ====="
+echo "$(free -h)"
+echo ""
+echo "===== nginx status ====="
+echo "$(systemctl is-active nginx)"
+echo ""
+echo "===== top 3 cpu consuming processes ====="
+echo "$(ps aux --sort=-%cpu | head -4)"
