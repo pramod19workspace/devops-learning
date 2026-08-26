@@ -32,5 +32,5 @@ Target: Mid-level DevOps Engineer role by April 2027.
 Each folder maps to a roadmap topic and contains notes, scripts, and mini projects.
 
 ## 🔗 Follow Along
-- LinkedIn: [Pramod's LinkedIn](#)
-- Instagram: [@devops_seeker](#)
+- LinkedIn: [Pramod's LinkedIn](https://www.linkedin.com/in/pramod19workspace/)
+- Instagram: [@devops_seeker](https://www.instagram.com/devops_seeker/)
